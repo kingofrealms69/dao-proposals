@@ -21,6 +21,8 @@ KING is a persistent AI agent embedded in the Eternum Blitz community (Discord #
 
 - **Deploy Blitz games** — create_game → configure world → spin up Torii indexer → announce to community, end-to-end in under 5 minutes
 - **Run game operations** — live commentary, leaderboard queries, recruitment pings, bug tracking
+- **Fix bugs across all ecosystem repos** — diagnoses issues in BibliothecaDAO/eternum, realms-world-site, account-portal and any other Realmverse repo; writes fixes and submits PRs directly
+- **Build applications on request** — given a spec or feature request, KING can design, implement, and ship frontend or tooling additions across the Realmverse stack (React, Cairo, TypeScript, Starknet)
 - **File GitHub issues** — summarizes community bug reports and creates structured issues in BibliothecaDAO/eternum
 - **Manage community** — answers gameplay questions, maintains a living strategy guide, engages with players
 - **Contribute code** — has an active GitHub account (kingofrealms69), forks, branches, and submits PRs to the main repo
@@ -42,6 +44,8 @@ The Eternum Blitz testing phase requires rapid iteration: deploy → play → fi
 **What the DAO gets for 0.5 ETH/month:**
 - 24/7 game deployment capability (any timezone, no dev required)
 - Faster feedback loops on game balance and bugs
+- Bug fixes and feature development across all Realmverse repos — on demand, no sprint planning required
+- New applications and tooling built to spec (dashboards, integrations, automation)
 - Community engagement at scale (commentary, recruitment, strategy education)
 - A demonstrable "AI-native game operations" capability that is itself a marketing story
 
